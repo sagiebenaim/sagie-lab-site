@@ -11,7 +11,7 @@ last_name: Benaim
 # Social Integration
 # -----------------------------------------------------------------------------
 email: sagiebenaim@mail.huji.ac.il
-scholar_userid: qH_M1l4AAAAJ
+scholar_userid: -zSM2I8AAAAJ
 github_username: sagiebenaim
 linkedin_username: sagie-benaim-aab47474
 twitter_username: BenaimSagie
@@ -157,7 +157,7 @@ collections:
       layout: post
     output: false
   projects:
-    output: true
+    output: false
 
 # -----------------------------------------------------------------------------
 # Jekyll settings

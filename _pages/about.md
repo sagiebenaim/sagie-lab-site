@@ -15,7 +15,7 @@ profile:
     <p>Room C-433</p>
     <p>Rothberg Building</p>
 
-selected_papers: true 
+selected_papers: false 
 social: true
 
 announcements:
